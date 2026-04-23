@@ -1,0 +1,147 @@
+{
+    "version": "1.4.0",
+    "project": {
+        "name": "demo-test",
+        "directory": "X:\\MyBtest\\demo",
+        "workspaceDir": "X:\\MyBtest\\demo",
+        "sources": [
+            "X:\\MyBtest\\demo\\src\\test\\java"
+        ],
+        "dependencies": [
+            "demo"
+        ],
+        "classpath": [
+            "X:\\MyBtest\\demo\\target\\test-classes",
+            "X:\\MyBtest\\demo\\target\\classes",
+            "D:\\maven\\repository\\junit\\junit\\4.11\\junit-4.11.jar",
+            "D:\\maven\\repository\\org\\hamcrest\\hamcrest-core\\1.3\\hamcrest-core-1.3.jar"
+        ],
+        "out": "X:\\MyBtest\\demo\\target",
+        "classesDir": "X:\\MyBtest\\demo\\target\\test-classes",
+        "resources": [
+            "X:\\MyBtest\\demo\\src\\test\\resources"
+        ],
+        "java": {
+            "options": [
+                "-g",
+                "-target",
+                "1.7",
+                "-source",
+                "1.7",
+                "-encoding",
+                "UTF-8"
+            ]
+        },
+        "test": {
+            "frameworks": [
+                {
+                    "names": [
+                        "com.novocode.junit.JUnitFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.scalatest.tools.Framework",
+                        "org.scalatest.tools.ScalaTestFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.scalacheck.ScalaCheckFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs.runner.SpecsFramework",
+                        "org.specs2.runner.Specs2Framework",
+                        "org.specs2.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "utest.runner.Framework"
+                    ]
+                },
+                {
+                    "names": [
+                        "munit.Framework"
+                    ]
+                },
+                {
+                    "names": [
+                        "mill.testng.TestNGFramework"
+                    ]
+                }
+            ],
+            "options": {
+                "excludes": [
+                    
+                ],
+                "arguments": [
+                    {
+                        "args": [
+                            "-v",
+                            "-a"
+                        ],
+                        "framework": {
+                            "names": [
+                                "com.novocode.junit.JUnitFramework"
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "platform": {
+            "name": "jvm",
+            "config": {
+                "home": "C:\\Program Files\\Java\\java-21-openjdk-21.0.7.0.6-1.win.jdk.x86_64",
+                "options": [
+                    
+                ]
+            },
+            "mainClass": [
+                
+            ]
+        },
+        "resolution": {
+            "modules": [
+                {
+                    "organization": "org.hamcrest",
+                    "name": "hamcrest-core",
+                    "version": "1.3",
+                    "artifacts": [
+                        {
+                            "name": "hamcrest-core",
+                            "path": "D:\\maven\\repository\\org\\hamcrest\\hamcrest-core\\1.3\\hamcrest-core-1.3.jar"
+                        },
+                        {
+                            "name": "hamcrest-core",
+                            "classifier": "sources",
+                            "path": "D:\\maven\\repository\\org\\hamcrest\\hamcrest-core\\1.3\\hamcrest-core-1.3-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "junit",
+                    "name": "junit",
+                    "version": "4.11",
+                    "artifacts": [
+                        {
+                            "name": "junit",
+                            "path": "D:\\maven\\repository\\junit\\junit\\4.11\\junit-4.11.jar"
+                        },
+                        {
+                            "name": "junit",
+                            "classifier": "sources",
+                            "path": "D:\\maven\\repository\\junit\\junit\\4.11\\junit-4.11-sources.jar"
+                        }
+                    ]
+                }
+            ]
+        },
+        "tags": [
+            "test"
+        ]
+    }
+}
