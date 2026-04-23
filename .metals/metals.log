@@ -199,3 +199,40 @@ Apr 23, 2026 9:50:33 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notif
 信息: Unsupported notification method: $/setTrace
 Apr 23, 2026 9:55:32 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 信息: Unsupported notification method: $/setTrace
+Apr 23, 2026 10:00:33 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+Apr 23, 2026 10:05:32 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+Apr 23, 2026 10:06:19 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+Apr 23, 2026 10:06:49 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+Apr 23, 2026 10:06:50 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+Apr 23, 2026 10:10:33 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+Apr 23, 2026 10:11:42 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+Apr 23, 2026 10:15:14 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+Apr 23, 2026 10:15:33 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+Apr 23, 2026 10:20:33 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+Apr 23, 2026 10:23:58 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+Apr 23, 2026 10:25:33 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+Apr 23, 2026 10:25:56 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+Apr 23, 2026 10:27:02 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+Apr 23, 2026 10:30:33 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+2026.04.23 10:30:34 INFO  Shutting down server
+2026.04.23 10:30:34 INFO  Memory monitor stopped
+2026.04.23 10:30:34 INFO  shutting down Metals
+2026.04.23 10:30:34 INFO  Exiting server
+2026.04.23 10:31:04 INFO  Started: Metals version 1.6.7 in folders 'X:\MyBtest' for client Trae CN 1.107.1.
+2026.04.23 10:31:04 INFO  Memory monitor started
+2026.04.23 10:31:05 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
